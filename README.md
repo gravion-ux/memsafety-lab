@@ -7,8 +7,8 @@ functions behind classic buffer overflows (`gets`, `strcpy`, `sprintf`,
 unbounded `scanf`...) and prints the safe replacement for each hit as a
 fix checklist.
 
-Built from Red Team Leaders coursework on offensive memory exploitation and
-C++ (CCPP): you learn the offence to write the defence. Defensive and
+Built from Red Team Leaders coursework, C++ Practitioner Professional
+(CCPP): you learn the offence to write the defence. Defensive and
 educational only — it analyses code you own and ships no exploit material.
 
 ## Install
